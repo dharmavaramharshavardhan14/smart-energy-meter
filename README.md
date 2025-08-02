@@ -65,4 +65,4 @@ Smart_Energy_Meter_Project/
 
 ---
 
-Made with 💡 by Srujan
+Made with 💡 by Harshavardhan
